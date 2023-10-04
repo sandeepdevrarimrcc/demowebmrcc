@@ -113831,7 +113831,7 @@ var $async$$0=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:if($.aB==null)A.b_c()
 $.aB.toString
 s=2
-return A.Y($.b1W().FS(0,"lib/uat/.env"),$async$$0)
+return A.Y($.b1W().FS(0,"lib/uat/dotenv"),$async$$0)
 case 2:q=A.bqw(B.m)
 p=A.aE2(null,null,null,A.cS(60).qx(B.aY,B.k),null,null,null,null,null,null,null,null,null,null,null)
 o=A.O(14).ak(B.aY)
